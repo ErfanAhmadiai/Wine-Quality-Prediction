@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction
-Predicting the Quality of Wine using Machine Learning Algorithms
+Predicting the Quality of Wine using Machine Learning Algorithms.
 # About this dataset
 The data was downloaded from UCI Machine Learning Repository.
 
